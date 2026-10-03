@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🧲 La Pieza Prohibida
+# 🧲 Polaridad
 
-### Atrapa la roja. Ninguna más.
+### Un toque cambia todo.
 
-**Una cinta transportadora, un imán y una sola oportunidad.**
+**Invierte el campo magnético y haz pasar la bola por el hueco.**
 
-[![Jugar](https://img.shields.io/badge/▶_JUGAR_AHORA-B54E43?style=for-the-badge&logoColor=white)](https://goyoaga.github.io/la-pieza-prohibida/)
+[![Jugar](https://img.shields.io/badge/▶_JUGAR_AHORA-B85347?style=for-the-badge&logoColor=white)](https://goyoaga.github.io/polaridad/)
 [![Ko-fi](https://img.shields.io/badge/☕_INVÍTAME_UN_CAFÉ-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/arielgoyoaga)
 
 `🎮 Juego gratuito` · `📱 Móvil y escritorio` · `👆 Un solo toque`
@@ -15,25 +15,26 @@
 
 ---
 
-## 🧲 Un toque. Un objetivo.
+## 🧲 Cambia la curva
 
-Las piezas avanzan por la cinta. Entre ellas está **la pieza prohibida**, marcada en rojo. Activa el imán justo cuando pase por debajo.
+La bola avanza automáticamente entre dos polos magnéticos. El campo la desvía. Tu única decisión es **cuándo invertir la polaridad**.
 
-Si pulsas antes, puedes llevarte otra pieza. Si esperas demasiado, la roja escapará.
+Desde ese instante no puedes corregir nada: solo mirar la trayectoria y esperar a que atraviese el hueco.
 
-**OBSERVA → ACTIVA → MIRA → RESULTADO → UNA MÁS**
+**ENTRA → CURVA → 👆 INVIERTE → 😬 MIRA → RESULTADO → UNA MÁS**
 
 ## 🎮 Cómo jugar
 
-- La cinta comienza automáticamente.
-- Toca **ACTIVAR IMÁN** una sola vez.
-- Atrapa la pieza roja sin llevarte ninguna otra.
+- La bola comienza a moverse sola.
+- Toca **INVERTIR POLARIDAD** una sola vez.
+- La fuerza magnética cambia de dirección al instante.
+- Haz pasar la bola por el hueco sin tocar los bordes.
 - También puedes usar la barra espaciadora en escritorio.
 - El sonido empieza desactivado.
 
 ## 🚀 Jugar
 
-**[Abrir La Pieza Prohibida](https://goyoaga.github.io/la-pieza-prohibida/)**
+**[Abrir Polaridad](https://goyoaga.github.io/polaridad/)**
 
 ## ☕ Apoya UNAMAS GAMES
 
