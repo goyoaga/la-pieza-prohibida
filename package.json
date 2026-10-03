@@ -1,1 +1,1 @@
-{"name":"la-pieza-prohibida","private":true,"version":"0.1.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"devDependencies":{"vite":"^7.1.0"}}
+{"name":"polaridad","private":true,"version":"0.2.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build","preview":"vite preview --host 0.0.0.0"},"devDependencies":{"vite":"^7.1.0"}}
